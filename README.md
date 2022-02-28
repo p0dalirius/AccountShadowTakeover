@@ -1,5 +1,7 @@
 # AccountShadowTakeover
 
+A python script to automatically add a KeyCredentialLink to newly created users, by quickly connecting to them with default credentials.
+
 
 
 ## Features 
