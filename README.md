@@ -2,6 +2,10 @@
 
 
 
+## Features 
+
+ - [x] Automatically add a `msDS-KeyCredentialLink` to newly created users using default password.
+
 ## Workflow
 
 Requirements :
