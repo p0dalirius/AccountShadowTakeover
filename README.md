@@ -2,7 +2,7 @@
 
 A python script to automatically add a KeyCredentialLink to newly created users, by quickly connecting to them with default credentials.
 
-
+⚠️ The idea is fun, but does not work for now. Maybe one day with a weird technique to allow a user to write its own `msDS-KeyCredentialLink` attribute.
 
 ## Features 
 
