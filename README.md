@@ -9,7 +9,8 @@
     <br>
 </p>
 
-⚠️ The idea is fun, but does not work for now. It will maybe work one day when a new technique to allow a user to write its own `msDS-KeyCredentialLink` attribute is found.
+> [!WARNING]
+> The idea is fun, but does not work for now. It will maybe work one day when a new technique to allow a user to write its own `msDS-KeyCredentialLink` attribute is found.
 
 ## Features 
 
